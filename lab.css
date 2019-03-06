@@ -1,0 +1,26 @@
+html, body {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    margin: auto;
+    width: 30%;
+    border: 3px solid green;
+    text-align: left;
+}
+
+li.a {
+    list-style-type: none;
+}
+
+li.b {
+    list-style-type: circle;
+}
+
+li.c {
+    list-style-type: square;
+}
+
+
+  
