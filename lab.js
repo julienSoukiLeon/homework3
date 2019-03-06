@@ -46,7 +46,7 @@ const org1_depts = [
     new_ul = null;
     if (my_array && my_array.length != 0)
     {
-        var ul = "";""
+        var ul = ""
         if (index == 0)
         {
             ul = document.createElement("UL");
